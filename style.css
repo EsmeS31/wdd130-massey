@@ -162,6 +162,16 @@ ul {
   padding-left: 1.5rem;
 }
 
+ol {
+  list-style: disc inside;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.1rem;
+  color: #0D3B66;
+  margin: 0 auto 2rem auto;
+  max-width: 400px;
+  padding-left: 1.5rem;
+}
+
 @media (max-width: 700px) {
   header {
     grid-template-columns: 1fr;
